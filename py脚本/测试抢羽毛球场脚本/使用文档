@@ -1,0 +1,7 @@
+1、登录http://ydfwpt.cug.edu.cn/product/show.html?id=1 要保持未登录状态
+
+2、选择场之后，使用burpsuite抓包。获取param里面的内容，使用url解码.py。
+
+3、解码之后，增加一个场，注意格式。
+
+4、使用可视化.py,输入制作好的param 等待即可！
