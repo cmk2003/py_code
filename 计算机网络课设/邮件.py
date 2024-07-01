@@ -13,7 +13,7 @@ import re
 def send():
     mailserver = "smtp.qq.com"
     # myname = "1657299258@qq.com"
-    # mypassword = "asdfghjkl4"#独立密码
+    # mypassword = "xxx"#独立密码
     # user = '1657299258'
     username = 'MTY1NzI5OTI1OA=='
     #pass="alyxvzpugztccbdb"
