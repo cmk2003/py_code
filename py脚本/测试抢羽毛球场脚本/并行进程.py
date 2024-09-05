@@ -97,9 +97,9 @@ def process_task(username, password, encoded_string):
     print(parsed_data['message'])
 
 
-if __name__ == "__main__":#20211001363  #101015  20211003657 183813
-    username = '20211001363'
-    password = '101015'
+if __name__ == "__main__":
+    username = 'xxx'
+    password = 'xxx'
     json_data = json_data_
 #################################################################################
     ###两个小时变成三个小时
